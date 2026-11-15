@@ -1,0 +1,6 @@
+{
+  "name": "ASTROCARE",
+  "description": "NASA-grade Astronaut Health Monitoring, Real-Time Orbital Satellite Tracking, and ASTRA Medical Decision-Support Platform by Team WARRIOR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
